@@ -2,3 +2,6 @@ LEIA
 ubuntu-bionic-18.04-cloudimg-console.log
 .vagrant
 Vagrantfile-old
+projetos_swarm
+worker_token
+manager_token
